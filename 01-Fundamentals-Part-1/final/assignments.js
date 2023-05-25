@@ -1,37 +1,26 @@
-/*
-// LECTURE: Values and Variables
-const country = 'Netherlands'
-const continent = 'Europ'
-let population = 17244735
+// const country = 'Netherland'
+// const continent = 'Europ'
+// const population = 17.2
+// let language;
 
-// console.log('I live in the ' + country + ' this is located in ' + continent + ' the ' + country + ' has a population of ' + population)
-// console.log(country)
-// console.log(continent)
-// console.log(population)
+// const avaragePopulation = 33
+// const finlandPopulation = 6
 
-// LECTURE: Data Types
+// const isIsland = false
 
-const isIsland = false
-let language = 'dutch'
+// language = "dutch"
 
-// console.log(typeof isIsland)
-// console.log(typeof population)
-// console.log(typeof country)
-// console.log(typeof language)
+// console.log(country, continent, population)
+// console.log(typeof isIsland, typeof population, typeof country, typeof language)
 
-//LECTURE: let, const and var 
+// if (population >= avaragePopulation) {
+//     console.log(`${country}'s population is above average`)
+// } else {
+//     const tillAboveAvarage = avaragePopulation - population
+//     console.log(`${country}'s population is ${tillAboveAvarage} million below average`)
+// }
 
-language = "english"
+// const description = `${country} is in ${continent} and its ${population} million people speak ${language}`
 
-//LECTURE: Basic Operators 
 
-console.log(population / 2)
-population++
-console.log(population)
-const populationFinland = 6000000
-console.log(population >= populationFinland)
-const populationAvarge = 33000000
-console.log(population <= populationAvarge)
-const description = country + " is in " + continent + ", and its " + population + " people speak " + language
-console.log(description)
-*/
+// console.log(description)
